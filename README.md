@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kikotajada
 - 👀 I’m interested in Data Science and Blockchain
-- 🌱 I’m currently trying to learn about both. It is hard because I don't have a Computer Science background.
+- 🌱 I’m currently trying to learn about both. I'm doing so by reading and following courses at udemy.com
 - 📫 How to reach me: kikotajada@gmail.com, @kikotajada in twitter, instagram
 
 <!---
